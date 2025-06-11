@@ -1,2 +1,4 @@
-# practicePagesSite
-Basic site for Github Pages.
+#Landing Page Portfolio
+---
+- Featured Projects
+- Personal Statement

@@ -89,13 +89,16 @@ nav .wrap {
   font-size: 3.4rem;
   line-height: 1.05;
   letter-spacing: -0.035em;
-  margin: 0 0 10px;
+  margin: 0 0 14px;
   font-weight: 700;
 }
 
 .hero .role {
-  font-size: 1.1rem;
-  color: var(--muted);
+  color: var(--accent);
+  font-weight: 600;
+  font-size: 0.82rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
   margin: 0 0 28px;
   padding-bottom: 26px;
   border-bottom: 1px solid var(--line);

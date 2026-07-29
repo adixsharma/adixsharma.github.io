@@ -85,21 +85,20 @@ nav .wrap {
 /* Hero */
 .hero { padding: 84px 0 68px; }
 
-.eyebrow {
-  color: var(--accent);
-  font-weight: 600;
-  font-size: 0.82rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  margin: 0 0 14px;
+.hero h1 {
+  font-size: 3.4rem;
+  line-height: 1.05;
+  letter-spacing: -0.035em;
+  margin: 0 0 10px;
+  font-weight: 700;
 }
 
-.hero h1 {
-  font-size: 3.1rem;
-  line-height: 1.1;
-  letter-spacing: -0.03em;
-  margin: 0 0 18px;
-  font-weight: 700;
+.hero .role {
+  font-size: 1.1rem;
+  color: var(--muted);
+  margin: 0 0 28px;
+  padding-bottom: 26px;
+  border-bottom: 1px solid var(--line);
 }
 
 .hero .lede {
@@ -263,6 +262,6 @@ footer {
   .wrap { padding: 0 20px; }
   .navlinks { display: none; }
   .hero { padding: 56px 0 48px; }
-  .hero h1 { font-size: 2.2rem; }
+  .hero h1 { font-size: 2.4rem; }
   section { padding: 48px 0; }
 }
